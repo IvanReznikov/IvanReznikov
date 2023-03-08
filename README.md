@@ -5,7 +5,7 @@
 
 My university Data Science course [repo](https://github.com/IvanReznikov/mdx-msc-data-science)
 
-My articles and conference talks [repo](https://github.com/IvanReznikov/DataVerse)
+My onepagers, articles and conference talks [repo](https://github.com/IvanReznikov/DataVerse)
 
 
 <!--
