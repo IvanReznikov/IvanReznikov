@@ -7,6 +7,8 @@ My university Data Science course [repo](https://github.com/IvanReznikov/mdx-msc
 
 My onepagers, articles and conference talks [repo](https://github.com/IvanReznikov/DataVerse)
 
+Python-clustering [repo](https://github.com/IvanReznikov/python-clustering)
+
 
 <!--
 **IvanReznikov/IvanReznikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
