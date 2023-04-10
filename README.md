@@ -8,6 +8,8 @@ My university Data Science course [repo](https://github.com/IvanReznikov/mdx-msc
 
 My onepagers, articles and conference talks [repo](https://github.com/IvanReznikov/DataVerse)
 
+Author of the [Burj Khalifa](https://github.com/IvanReznikov/bk_clustering) clustering method
+
 Python-clustering [repo](https://github.com/IvanReznikov/python-clustering)
 
 
