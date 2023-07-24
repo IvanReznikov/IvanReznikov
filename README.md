@@ -6,7 +6,7 @@
 
 My university Data Science course [repo](https://github.com/IvanReznikov/mdx-msc-data-science)
 
-My onepagers, articles and conference talks [repo](https://github.com/IvanReznikov/DataVerse)
+My onepagers, articles, conference talks and lecture notes [repo](https://github.com/IvanReznikov/DataVerse)
 
 Author of the [Burj Khalifa](https://github.com/IvanReznikov/bk_clustering) clustering method
 
