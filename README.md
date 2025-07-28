@@ -1,29 +1,47 @@
-### Hi there 👋
+# 👋 Hi there, I'm Ivan Reznikov
 
-<a href="https://www.linkedin.com/in/reznikovivan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://medium.com/@ivanreznikov"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="mailto:ivanreznikov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reznikovivan/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ivanreznikov)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanreznikov@gmail.com)
 
-My university Data Science course [repo](https://github.com/IvanReznikov/mdx-msc-data-science)
+---
 
-My onepagers, articles, conference talks and lecture notes [repo](https://github.com/IvanReznikov/DataVerse)
+## 🚀 About Me
 
-Author of the [Burj Khalifa](https://github.com/IvanReznikov/bk_clustering) clustering method
+🎓 Principal Data Scientist & Adjunct Professor, PhD  
+🧠 Specializing in **AI for Life Sciences & Healthcare**  
+📍 Based in the UAE  
+✍️ Writer, speaker, and developer of tools for research and industry
 
-Python-clustering [repo](https://github.com/IvanReznikov/python-clustering)
+---
 
+## 🔬 Featured Projects
 
-<!--
-**IvanReznikov/IvanReznikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 **LangChain4LifeSciencesHealthcare**
+Official repo combining LangChain with domain-specific tools and datasets for healthcare RAG and agents  
+👉 [LangChain4LSH Repo](https://github.com/IvanReznikov/LangChain4LifeSciencesHealthcare)
 
-Here are some ideas to get you started:
+### 🏛️ **Burj Khalifa Clustering**
+A novel clustering algorithm designed for high-dimensional datasets  
+👉 [Burj Khalifa Clustering Repo](https://github.com/IvanReznikov/bk_clustering)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Educational Content
+
+### 🎓 **University Data Science Course**
+All course materials for my Master’s-level Data Science curriculum  
+📘 [Course Repo](https://github.com/IvanReznikov/mdx-msc-data-science)
+
+### 📖 **DataVerse**
+A growing collection of:
+- 📄 One-pagers  
+- 🎤 Conference talks  
+- 🧾 Lecture notes  
+- 📚 Articles
+  
+🔗 [Visit DataVerse](https://github.com/IvanReznikov/DataVerse)
+
+---
+
+_Thanks for stopping by! Feel free to reach out via [email](mailto:ivanreznikov@gmail.com) or [LinkedIn](https://www.linkedin.com/in/reznikovivan/)._  
