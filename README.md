@@ -11,6 +11,6 @@
 🎓 Principal Data Scientist & Adjunct Professor, PhD  
 🧠 Specializing in **AI for Life Sciences & Healthcare**  
 📍 Based in the UAE  
-✍️ O'Reilli book author, medium writer, speaker, and developer of tools for research and industry
+✍️ O'Reilly book author, medium writer, speaker, and developer of tools for research and industry
 
 ---
